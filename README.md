@@ -36,8 +36,11 @@ Python 3.10.0 installed.
 ## How to run
 
 The first part of the project is the data analysis and data preprocessing. All the code is in the file `data-analysis-preprocessing.ipynb`. 
+
 This file will generate the files `dataset_cnn.pkl`, `dataset_mlp_ids.pkl`.
+
 The second part of the project is the MLP model. All the code is in the file `mlp.ipynb`.
+
 And the last part of the project is the CNN model. All the code is in the file `cnn.ipynb`.
 
 
