@@ -1,7 +1,5 @@
 # Machine Learning II Project - UrbanSound8K dataset
 
-#### Work done by: Ana Pinto (202105085) |  Miguel Santos (202105289) | Tomás Rodrigues (202107937)
-
 ## Description
 
 This project was developed for the Machine Learning II course of the Bachelor's degree in Artificial Intelligence and Data Science at Faculty of Sciences of University of Porto. The main goal of this project is to develop a model that can classify sounds from the UrbanSound8K dataset. The dataset contains 8732 labeled sound excerpts (<=4s) of urban sounds from 10 classes: air_conditioner, car_horn, children_playing, dog_bark, drilling, enginge_idling, gun_shot, jackhammer, siren and street_music. The classes are drawn from the urban sound taxonomy. For more information about the dataset, please visit: https://urbansounddataset.weebly.com/urbansound8k.html
@@ -43,6 +41,8 @@ The second part of the project is the MLP model. All the code is in the file `ml
 
 And the last part of the project is the CNN model. All the code is in the file `cnn.ipynb`.
 
+
+#### Work done by: Ana Pinto (202105085) |  Miguel Santos (202105289) | Tomás Rodrigues (202107937)
 
 
 
