@@ -42,8 +42,6 @@ The second part of the project is the MLP model. All the code is in the file `ml
 And the last part of the project is the CNN model. All the code is in the file `cnn.ipynb`.
 
 
+
+
 #### Work done by: Ana Pinto (202105085) |  Miguel Santos (202105289) | Tomás Rodrigues (202107937)
-
-
-
-
