@@ -12,15 +12,25 @@ Python 3.10.0 installed.
 ## Requirements Lib 
 
 -- tensorflow 2.10.0
+
 -- librosa 0.9.2
+
 -- numpy 1.19.5
+
 -- pandas 1.1.5
+
 -- soundfile 0.12.1
+
 -- matplotlib 3.3.4
+
 -- pickle 4.0
+
 -- pydub 0.25.1
+
 -- seaborn 0.11.2
+
 -- scikit-learn 0.24.2
+
 -- keras 2.6.0
 
 ## How to run
